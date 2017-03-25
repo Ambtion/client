@@ -1,3 +1,3 @@
 {
-	"UseFavManData":0
+	"UseFavManData":1
 }
